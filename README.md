@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h1><b>PORTFOLIO_WEBSITE</b></h1>
+  <h1><b>LEADERBOARD</b></h1>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 This is the first technical Codegisoft Academy project it tests more on Git, GitHub, GitHub Workflow and Linters.
 
-*[HTML_CSS_CAPSTONE]* is a HTML CSS AND JAVASCRIPT project
+*[leaderboard]* is a HTML CSS AND JAVASCRIPT project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,8 +53,9 @@ A demo link will be uploaded subsequently.
 - creating html and css and script.js files
 - adding a description to the project
 - creating different branches
-- creating seperate files
+- creating a modules 
 - putting the files in their road directory
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -88,7 +89,7 @@ sh
 
 ### Usage
 
-To run the project, start the html file on live server
+To run the project, run npm run build and npm run dev
 
 ### Run tests
 
